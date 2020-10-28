@@ -1,0 +1,41 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+body{
+    text-align:center;
+    background:rgb(187, 187, 187)
+}
+
+.emojihead{
+    padding:10px;
+    background:#34ff9a;
+    color:white;
+    max-width:500px;
+    margin:20px auto;
+}
+
+.emojis{
+    display:flex;
+    flex-wrap: wrap;
+    padding:20px;
+}
+
+.emojicard{
+    padding:25px;
+    max-width:300px;
+    margin:10px;
+    background:#fff;
+    border-radius: 10px;
+}
+
+.emojiname{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+img{
+    margin-top:10px;
+    margin-bottom:10px;
+}
